@@ -88,7 +88,7 @@ const Facilities = () => {
               </div>
               <div className="facontent">
                 <div className="factitle">Good Academic</div>
-                <p>We provide our student with good encyclopedia to reduce their encumbrance regarding any subject academically or globally. A well equipped laboratories of physics, chemistry, biology and computers for practical learning .We teach students by smart classes for active participation and deep knowledge. A good psychiatrist and counselor for students and Parents is available during school timings.</p>
+                <p>We provide our student with good encyclopedia to reduce their encumbrance regarding any subject academically or globally. A well equipped laboratories of physics, chemistry, biology, commerce, art and computers for practical learning .We teach students by smart classes for active participation and deep knowledge. A good psychiatrist and counselor for students and Parents is available during school timings.</p>
               </div>
             </div>
 

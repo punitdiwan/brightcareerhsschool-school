@@ -54,7 +54,7 @@ const AcademicPRocedure = () => {
               <p><b>Full time :-</b></p>
               <p><b>6 to 12th class :- </b>Morning Shift 7:30 am to 12:30 pm
               </p>
-              <p><b>nur to 5th class :- </b> Day Shift 12 pm to 5 pm
+              <p><b>Nursery to 5th class :- </b> Day Shift 12 pm to 5 pm
               </p>
 
               <h5>

@@ -219,7 +219,7 @@ const BannerSection = () => {
               Felix Public HR. Sec School provides an Best learning
                 environment with a commitment of using modern day teaching
                 pedagogy to cultivate an advanced and comprehensive academic
-                program; fully compliant with the Hogwarts curriculum of
+                program; fully compliant with the Felix Public HR. Sec School curriculum of
                 studies. We are a nursery to 12th school with a wide array of resources
                 designed to foster student achievement that will prepare our
                 pupils to pursue higher education and be competitive in their

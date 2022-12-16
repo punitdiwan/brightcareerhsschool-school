@@ -49,7 +49,7 @@ const BoardD = () => {
                 achieve all this, We follow a rigorous programme that is based
                 upon the best educational practices,  Our state-of-the-art infrastructure, coupled
                 with highly qualified and well-trained teachers, ensures that
-                the students at Hogwarts Public school should be able to gain an enriching
+                the students at Felix Public HR. Sec School should be able to gain an enriching
                 experience. Furthermore, it has been one of my quests in life to
                 make high quality education available; accessible through the
                 latest educational technology. The mission of the school is to
@@ -57,10 +57,10 @@ const BoardD = () => {
                 excellence, We will be the foundation for a new generation of
                 leaders and innovators, who will continue to pave the way for a
                 better and brighter future for our world. The greatest strength
-                of Hogwarts Public school is the high quality programmes and transparency in
+                of Felix Public HR. Sec School is the high quality programmes and transparency in
                 its system. We are fortunate to have a school community which
                 includes talented teachers and supportive parents who work
-                together to make Hogwarts Public school , an ideal place for our motivated
+                together to make Felix Public HR. Sec School , an ideal place for our motivated
                 students to learn and grow. We are always open to new ideas,
                 inquiries and feedback, from all.  I welcome you to be a part of Felix Public HR. Sec School 
                 family!

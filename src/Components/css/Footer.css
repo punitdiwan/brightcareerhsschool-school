@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 .footermain {
-  background-color: #1d4776;
+  /* background-color: #1d4776; */
+  background-color: #b34d53;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -12,7 +13,7 @@
 }
 .footerleft .logo {
   height: auto;
-  width: 9vw;
+  width: 12vw;
 }
 .footerleft .logo img {
   height: 100%;
@@ -108,7 +109,8 @@
   padding: 2vmax;
 }
 .fbtm {
-  background-color: #1d4776;
+  /* background-color: #1d4776; */
+  background-color: #b34d53;
   width: 100%;
   display: flex;
   align-items: center;
@@ -135,7 +137,7 @@
     font-size: 15px;
   }
   .footerleft .logo {
-    width: 15vw;
+    width: 25vw;
   }
   .footerleft {
     margin-top: 0px;
