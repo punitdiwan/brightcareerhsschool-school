@@ -5,7 +5,8 @@
   font-family: "Ascender Serif";
 }
 .navmain {
-  background-color: #1d4776;
+  /* background-color: #1d4776; */
+  background-color: #b34d53;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -19,7 +20,7 @@
 }
 .navleft .logo {
   height: auto;
-  width: 5vw;
+  width: 12vw;
 }
 .navleft .logo img {
   height: 100%;
