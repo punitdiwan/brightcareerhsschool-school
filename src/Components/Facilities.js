@@ -12,7 +12,7 @@ const Facilities = () => {
           
           <div className="facilitycontent">
             {/* swimming */}
-            <div className="facilitCard">
+            {/* <div className="facilitCard">
               <div className="facilimages">
                 <img src="./images1/swim.webp" alt="" />
               </div>
@@ -20,7 +20,7 @@ const Facilities = () => {
                 <div className="factitle">Swimming Pool</div>
                 <p>A school swimming pool offers an important added value to an educational centre, as it promotes the values of sport among pupils. More information here.</p>
               </div>
-            </div>
+            </div> */}
 
 
 
@@ -113,8 +113,8 @@ const Facilities = () => {
                 <img src="./images1/a3.jpeg" alt="" /> 
               </div>
               <div className="facontent">
-                <div className="factitle">Smart Auditorium Hall</div>
-                <p>Hogwarts International School have a smart Auditorium hall for meetings or cleberating functions or festival in the school . 60+ students and faculties can appear in this Hall. </p>
+                <div className="factitle">Computer Lab</div>
+                <p>We  have a smart Computer lab for  learning  in the school . 20+ students can appear in this lab. </p>
               </div>
             </div>
           </div>

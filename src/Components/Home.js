@@ -25,15 +25,16 @@ const BannerSection = () => {
               className="active"
             ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            {/* <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> */}
           </ol>
+          
           <div className="carousel-inner" role="listbox">
             <div className="carousel-item active">
               <img
                 className="d-block slideimage"
-                src="./images1/slide1.webp"
+                src="./images1/slide1.png"
                 alt="First slide"
               />
               {/* <div className="carousel-caption d-none d-md-block">
@@ -52,7 +53,7 @@ const BannerSection = () => {
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide2_11zon.webp"
+                src="./images1/slide2.png"
                 alt="Second slide"
               />
               {/* <div className="carousel-caption d-none d-md-block">
@@ -67,13 +68,13 @@ const BannerSection = () => {
                 </p>
               </div> */}
             </div>
-            <div className="carousel-item">
+            {/* <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide3_11zon.webp"
+                src="./images1/slider1.jpeg"
                 alt="Third slide"
               />
-              {/* <div className="carousel-caption d-none d-md-block">
+              <div className="carousel-caption d-none d-md-block">
                 <h1>
                   <b>Hands-on learning</b>
                 </h1>
@@ -84,45 +85,8 @@ const BannerSection = () => {
                     educational institute.
                   </b>
                 </p>
-              </div> */}
-            </div>
-            <div className="carousel-item">
-              <img
-                className="d-block slideimage"
-                src="./images1/slide4_11zon.webp"
-                alt="Fourt slide"
-              />
-              {/* <div className="carousel-caption d-none d-md-block">
-                <h1>
-                  <b>Safe and Caring Environment</b>
-                </h1>
-                <p>
-                  <b>
-                    Feeling safe and cared for is what makes our school
-                    community a complete family!
-                  </b>
-                </p>
-              </div> */}
-            </div>
-            <div className="carousel-item">
-              <img
-                className="d-block slideimage"
-                src="./images1/slide5_11zon.webp"
-                alt="Fifth slide"
-              />
-              {/* <div className="carousel-caption d-none d-md-block">
-                <h1>
-                  <b>21st Century Education</b>
-                </h1>
-                <p>
-                  <b>
-                    Embracing state-of-the-art technology in our classrooms
-                    allows Hogwarts International School to facilitate 21st
-                    century teaching and learning for its teachers and students.
-                  </b>
-                </p>
-              </div> */}
-            </div>
+              </div>
+            </div> */}
           </div>
           <a
             className="carousel-control-prev"
@@ -162,11 +126,9 @@ const BannerSection = () => {
               <img src="./images1/g1.webp" alt="" />
             </div>
             <div className="title">
-              <h3 className="my-3 ak">Swimming Pool</h3>
+              <h3 className="my-3 ak">Good Academic</h3>
               <p>
-                A school swimming pool offers an important added value to an
-                educational centre, as it promotes the values of sport among
-                pupils. More information here....
+              A well equipped laboratories of physics, chemistry, biology, commerce, art and computers for practical learning .We teach students by smart classes for active participation and deep knowledge.
               </p>
             </div>
           </div>
