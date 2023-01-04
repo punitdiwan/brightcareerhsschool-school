@@ -17,7 +17,7 @@ const Navbar = () => {
        </div>
        <div className="navright">
             <div className="socialmedia">
-            <a href="https://www.facebook.com/Hogwarts1234" target="_blank"style={{textDecoration:"none",color:"white"}}> <i className="ri-facebook-fill"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100088672832498" target="_blank"style={{textDecoration:"none",color:"white"}}> <i className="ri-facebook-fill"></i></a>
 
             <i className="ri-linkedin-box-fill"></i>
             <i className="ri-youtube-line"></i>
