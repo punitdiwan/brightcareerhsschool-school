@@ -28,7 +28,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/slide3_11zon.webp" alt="" />
+                <img src="./images2/skilled staff facilities.jpeg  " alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Skilled Staff</div>
@@ -42,7 +42,7 @@ const Facilities = () => {
               {/* sports */}
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/g2.webp" alt="" />
+                <img src="./images2/sports facilities.jpeg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Sports</div>
@@ -57,7 +57,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/DSC_2126.JPG" alt="" />
+                <img src="./images2/school infra.jpeg  " alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Nice Infrastructure</div>
@@ -71,11 +71,11 @@ const Facilities = () => {
               {/* hygiene washroom */}
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/a2.jpeg" alt="" />
+                <img src="./images2/science lab.jpeg" alt="" />
               </div>
               <div className="facontent">
-                <div className="factitle">Medical Camp</div>
-                <p>The medical camps are conducted by qualified doctors and nurses either employed by Hand in Hand or from reputed hospitals. Patients with mild disorders are prescribed medication during the camp and those with serious disorders are referred to the nearest primary healthcare centre.</p>
+                <div className="factitle">Science Lab</div>
+                <p>Science is a practical subject, teaching of which cannot be done properly only in theory form. For proper education of science, it is necessary to conduct various kinds of experimental works, which are practical in nature.</p>
               </div>
             </div>
 
@@ -84,7 +84,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/goda.jpeg" alt="" />
+                <img src="./images2/good academics facilities.jpeg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Good Academic</div>
@@ -96,7 +96,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/bus1.webp" alt="" />
+                <img src="./images2/transport2.jpeg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Transport Facility</div>
@@ -110,11 +110,11 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images1/a3.jpeg" alt="" /> 
+                <img src="./images2/yoga.jpeg" alt="" /> 
               </div>
               <div className="facontent">
-                <div className="factitle">Computer Lab</div>
-                <p>We  have a smart Computer lab for  learning  in the school . 20+ students can appear in this lab. </p>
+                <div className="factitle">Fitness & Yoga Lab</div>
+                <p>Yoga at school might help students feel better and improve their grades, Hygiene, fitness and "Good Living Skill" taught to students. </p>
               </div>
             </div>
           </div>

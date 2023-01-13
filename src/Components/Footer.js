@@ -28,14 +28,16 @@ const Footer = () => {
 
        <div className="footerleft">
          <div className="logo">
-            <img src="./images1/hlogo1.png" alt="" />
+            <img src="./images2/logo.png" alt="" />
          </div>
        </div>
        <div className="fbrightt">
             <div className="socialmedia1">
-           <a href="https://www.facebook.com/Hogwarts1234" target="_blank"style={{textDecoration:"none",color:"white"}}> <i className="ri-facebook-fill"></i></a>
+           <a href="https://www.facebook.com/profile.php?id=100057522966100&sk=photos" target="_blank"style={{textDecoration:"none",color:"white"}}> <i className="ri-facebook-fill"></i></a>
             <i className="ri-linkedin-box-fill"></i>
-            <i className="ri-youtube-line"></i>
+            <a href="https://www.youtube.com/shorts/6-5uPcOla4g" target="_blank"style={{textDecoration:"none",color:"white"}}> <i className="ri-youtube-fill"></i></a>
+            {/* <i className="ri-youtube-line"></i> */}
+            {/* <a href="https://www.youtube.com/shorts/6-5uPcOla4g"></a> */}
             </div>
             <div className="seacrch">
                 <input className='aa' type="search" />
@@ -56,7 +58,7 @@ const Footer = () => {
     
     
     <div className="fbtm">
-            <p>Address - 37,38 Rani Aman Bai Colony, Naveen Nagar, Bhopal ( M.P ) 462008, India
+            <p>Address - Bright Career H.S. School, Bhopal naka, Murli road, Sehore(M.P.), India
 
          </p>
            </div>

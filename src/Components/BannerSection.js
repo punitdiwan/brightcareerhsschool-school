@@ -28,7 +28,7 @@ const BannerSection = () => {
             <div className="carousel-item active">
               <img
                 className="d-block slideimage"
-                src="./images1/slide1.png"
+                src="./images2/Banner_1.png"
                 alt="First slide"
               />
               <div className="carousel-caption d-none d-md-block">
@@ -39,7 +39,7 @@ const BannerSection = () => {
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide2.png"
+                src="./images2/Banner_2.png"
                 alt="Second slide"
               />
               <div className="carousel-caption d-none d-md-block">

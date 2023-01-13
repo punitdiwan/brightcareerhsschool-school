@@ -14,7 +14,7 @@ const HlastSection = () => {
               <img src="./images/home2.jpg" alt="" />
             </div>
           </div>
-          <div className="hlsmid text-center p-5">
+          <div className="<Update />hlsmid text-center p-5">
             <div className="card_img my-5">
               <img src="./images/logo.png" alt="" />
             </div>
@@ -23,7 +23,7 @@ const HlastSection = () => {
               <a className="btn btn-lg kop px-3 py-2" href="" style={{backgroundColor:"#2E63B1"}}>
                 Student Life
               </a>
-              <a className="btn btn-lg kop px-3 py-2" href="" style={{backgroundColor:"#21D4776"}}>
+              <a className="bt<Update />n btn-lg kop px-3 py-2" href="" style={{backgroundColor:"#21D4776"}}>
                 Admission
               </a>
             </div>   
@@ -33,7 +33,7 @@ const HlastSection = () => {
               At the Hogwarts International School, we believe in giving our students a voice and instilling in them a passion to be involved with their school community. It is evident that students are at the forefront of understanding the needs of making their school into an environment that promotes a safe and healthy learning environment. For this reason, LIS is committed in providing a well balanced spiritual, academic and social well-being experience for it’s students. Students are encouraged to hone their talents in order to serve and participate in and beyond our community.
               </p>
             <div className="title1">
-
+            <Update />
             <div className="hlstbutton">
               <a className="btn btn-lg hls px-4 py-3" href="" style={{backgroundColor:"#21D4776"}}>
                 Learn More

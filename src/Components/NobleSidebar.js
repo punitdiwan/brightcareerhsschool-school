@@ -1,6 +1,5 @@
 import React from "react";
-import {NavLink} from "react-router-dom"
-
+import { NavLink } from "react-router-dom";
 
 const NobleSidebar = () => {
   return (
@@ -13,16 +12,18 @@ const NobleSidebar = () => {
           </button>
         </div>
         <div
-            className="btn btn-light nobaa text-center nobaaa1 mt-4 "
-            type="button"
-            style={{
-              border: "1px solid #797A7B",
-              color: "white",
-              borderRadius: "2px",
-            }}
-          >
-            <a className="text-center hogbtn" style={{color:"white",}}>FELIX PUBLIC HR. SEC SCHOOL</a>
-          </div>
+          className="btn btn-light nobaa text-center nobaaa1 mt-4 "
+          type="button"
+          style={{
+            border: "1px solid #797A7B",
+            color: "white",
+            borderRadius: "2px",
+          }}
+        >
+          <a className="text-center hogbtn" style={{ color: "white" }}>
+            Bright Career H.S. SCHOOL
+          </a>
+        </div>
         {/* <button className="nobaa mt-5">Hogwarts International School</button> */}
         <div className="nobaa nobaaa">
           <div
@@ -44,30 +45,28 @@ const NobleSidebar = () => {
               border: "1px solid #797A7B",
               color: "#797A7B",
               borderRadius: "2px",
-              
             }}
             id="dropdownMenuButton"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
           >
-          
             <NavLink to="">ABOUT US</NavLink>
           </div>
           <div
-                  className="dropdown-menu p-0"
-                  aria-labelledby="dropdownMenuButton"
-                >
-                  <a className="dropdown-item" to="/ourschool">
-                    OUR SCHOOL
-                  </a>
-                  <a className="dropdown-item" to="/boarddirector">
-                    BOARD OF DIRECTOR
-                  </a>
-                  <a className="dropdown-item" to="/principal">
-                    PRINCIPAL
-                  </a>
-                </div>
+            className="dropdown-menu p-0"
+            aria-labelledby="dropdownMenuButton"
+          >
+            <a className="dropdown-item" to="/ourschool">
+              OUR SCHOOL
+            </a>
+            <a className="dropdown-item" to="/boarddirector">
+              BOARD OF DIRECTOR
+            </a>
+            <a className="dropdown-item" to="/principal">
+              PRINCIPAL
+            </a>
+          </div>
 
           <div
             className="btn btn-light nobaaa1 "
@@ -103,7 +102,6 @@ const NobleSidebar = () => {
             <NavLink to="/contactus">CONTACT US</NavLink>
           </div>
 
-
           <div
             className="btn btn-light nobaa text-center hogbtn nobaaa1 mt-4 "
             type="button"
@@ -116,18 +114,17 @@ const NobleSidebar = () => {
             <a>Did You Know?</a>
           </div>
           <div
-                  className="btn btn-sm p-3 didyou"
-                  type="button"
-                  style={{
-                    border: "1px solid #797A7B",
-                    color: "#797A7B",
-                    borderRadius: "2px",
-                  }}
-                >
-                  The  Felix Public HR. Sec School was the old educational institute
-                  in Bhopal, M.P. ON to offer  Felix Public HR. Sec School Education
-                </div>
-
+            className="btn btn-sm p-3 didyou"
+            type="button"
+            style={{
+              border: "1px solid #797A7B",
+              color: "#797A7B",
+              borderRadius: "2px",
+            }}
+          >
+            The Bright Career H.S. School was the old educational institute in
+            Sehore, M.P. ON to offer Bright Career H.S. School Education
+          </div>
         </div>
       </div>
 
@@ -140,7 +137,7 @@ const NobleSidebar = () => {
                 />
                 <div
                   className="btn btn-lg"
-                  style={{
+                  style={{9826477967
                     backgroundColor: "white;",
                     border: "1px solid #D1D5DB",
                   }}

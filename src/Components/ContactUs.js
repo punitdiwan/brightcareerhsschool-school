@@ -54,7 +54,7 @@ const ContactUs = () => {
                 />
               </div>
               <div className="form-group">
-                <label for="exampleInputPassword1">Subject</label>
+                <la9826477967bel for="exampleInputPassword1">Subject</la9826477967bel>
                 <input
                   type="text"
                   className="form-control"
@@ -76,15 +76,7 @@ const ContactUs = () => {
             </form>
              */}
           
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3665.505129240696!2d77.41836341451337!3d23.261088584832766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c682c68d9fc87%3A0x3fd2f4ea12145913!2sFelix%20Public%20School!5e0!3m2!1sen!2sin!4v1671101158744!5m2!1sen!2sin"
-              width="600"
-              height="450"
-              style={{ border: "0" }}
-              allowfullscreen=""
-              loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"
-            ></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14667.738082033095!2d77.0898053!3d23.2090568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf5d9fdf1ca7658b9!2sBright%20Career%20School!5e0!3m2!1sen!2sin!4v1673418840172!5m2!1sen!2sin" width="600" height="450" style={{border:0}} allowFullscreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
           </div>
 
           <div className="contactright text-left">
@@ -93,11 +85,11 @@ const ContactUs = () => {
               <hr />
               <p className="linkwrap">
                 <b className="bbb">Phone:</b>{" "}
-                <a className="linkwrap mnc" href="tel:+91 9993219792">
-                  +91 9993219792
+                <a className="linkwrap mnc" href="tel:+91 9826477967">
+                  +91 9826477967
                 </a>{" "}
-                <a className="linkwrap mnc" href="tel:+91 07554241727">
-                  +91 0755-4241727
+                <a className="linkwrap mnc" href="tel:+91 7489606718">
+                  +91 7489606718
                 </a>
               </p>
               {/* <p className="linkwrap"><b className="bbb">Fax:</b> <a className="linkwrap mnc" href="tel:8770553362">+91 8770553362</a> </p> */}
@@ -105,10 +97,10 @@ const ContactUs = () => {
                 <b className="bbb">Email:</b>{" "}
                 <a
                   className="linkwrap mnc"
-                  href="mailto:  felixpublichss632568@gmail.com"
+                  href="mailto:  bchss1986@gmail.com"
                 >
                   {" "}
-                  felixpublichss632568@gmail.com
+                  bchss1986@gmail.com
                 </a>{" "}
               </p>
               {/* <p className="linkwrap"><b className="bbb">Website:</b> <a className="linkwrap mnc" href="">

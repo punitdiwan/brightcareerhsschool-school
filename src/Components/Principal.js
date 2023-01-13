@@ -13,9 +13,9 @@ const Principal = () => {
 
             <div className="princd">
               <div className="photos">
-                <img src="./images1/princ.jpeg.webp" alt="" />
+                <img src="./images2/principal.jpeg" alt="" />
                 <div className="phname">
-                  <b>Principal</b> - Mrs. Rubeena Farooq
+                  <b>Principal</b> - Mrs. Nidhi Gupta
                 </div>
               </div>
 
@@ -24,7 +24,7 @@ const Principal = () => {
                   <b>Principal Message -</b>
                 </h5>
                 <p>
-                  Warm Greeting from Felix Public HR. Sec School  family, we firmly believed
+                  Warm Greeting from Bright Career H.S. School  family, we firmly believed
                   that school education lays the foundation for the future of
                   the students and ensure a stable. According to the words of Swami Vivekanand "Arise, awake
                   and stop not till the goal is reached" echo in my mind. The
@@ -40,10 +40,10 @@ const Principal = () => {
               <b>Dear Parents, Students, and Visitors:</b>
             </p>
             <p>
-              <i>Felix Public HR. Sec School </i>
+              <i>Bright Career H.S. School </i>
             </p>
             <p>
-              Welcome to the Felix Public HR. Sec School . As we embark into a
+              Welcome to the Bright Career H.S. School . As we embark into a
               new journey of growth and learning, we will
               be able to take our school to the next level. At our end, we shall
               continue working with you for the best interests of our beloved
@@ -67,7 +67,7 @@ const Principal = () => {
               academics, character, and leadership.
             </p> */}
             <p>
-              As the Felix Public HR. Sec School  principal, I am more than
+              As the Bright Career H.S. School  principal, I am more than
               willing to do all it takes to make our school an outstanding
               institution, where our students are nurtured through mind, body,
               and soul. Such a mission will not be possible to accomplish
@@ -80,12 +80,12 @@ const Principal = () => {
             <p>
             </p>
             <p>
-              <b>Mrs. Rubeena Farooq, Principal -</b>
+              <b>Mrs. Nidhi Gupta, Principal -</b>
             </p>
             {/* <p>Felix Public HR. Sec School </p> */}
             <p>
-            37,38 Rani Aman Bai Colony, Naveen Nagar, Bhopal ( M.P ) 462008, India
-              <p>School Phone: +91 9993219792 ,  0755 - 4241727</p>
+             Bright Career H.S.School,Bhopal naka,Murli road,Sehore(M.P.),India
+              <p>School Phone: +91 9826477967 ,  +91 7489606718</p>
               {/* <p>Fax: +91 7772888558</p> */}
             </p>
           </div>

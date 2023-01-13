@@ -19,7 +19,7 @@ const AcademicPRocedure = () => {
               </h3>
 
               <p>
-                Felix Public HR. Sec School provides children with a play-based
+                Bright Career H.S. School provides children with a play-based
                 or emergent curriculum, which is child-centred and teacher
                 framed. Our educators develop large and small group instruction
                 as well as learning centres, based on observed student
@@ -52,10 +52,10 @@ const AcademicPRocedure = () => {
                 (grade V & above) and the school rule book
               </p>
               <p><b>Full time :-</b></p>
-              <p><b>6 to 12th class :- </b>Morning Shift 7:30 am to 12:30 pm
+              <p><b>Nursury to 12th class :- </b>Morning Shift 8:30 am to 2:00 pm
               </p>
-              <p><b>Nursery to 5th class :- </b> Day Shift 12 pm to 5 pm
-              </p>
+              {/* <p><b>Nursery to 5th class :- </b>
+              </p> */}
 
               <h5>
                 <b>Submission of Documents:</b>
@@ -103,8 +103,8 @@ const AcademicPRocedure = () => {
               </h5> */}
               <h5>
                 Email to : &nbsp;
-                <a href="mailto:felixpublichss632568@gmail.com">
-                felixpublichss632568@gmail.com
+                <a href="mailto:bchss1986@gmail.com">
+                 bchss1986@gmail.com
                 </a>
               </h5>
             </div>

@@ -8,40 +8,45 @@ const Gallery = () => {
     <div className="first">
         
         <div className="one">
-            <img src="./images1/abc.jpeg" alt="" />
+            <img src="./images2/gallery1.jpeg" alt="" />
         </div>
         <div className="one">
-            <img src="./images1/a6.JPG" alt="" />
+            <img src="./images2/gallery2.jpeg" alt="" />
         </div>
         <div className="one">
-            <img src="./images1/DSC_2198.JPG" alt="" />
-        </div><div className="one">
-            <img src="./images1/swim.jpeg" alt="" />
+            <img src="./images2/gallery3.jpeg" alt="" />
+        </div>
+        <div className="one">
+            <img src="./images2/gallery4.jpeg" alt="" />
         </div>
     </div>
         <div className="first">
         
             <div className="one">
-                <img src="./images1/DSC_2160.JPG" alt="" />
+                <img src="./images2/gallery5.jpeg" alt="" />
             </div>
             <div className="one">
-                <img src="./images1/g2.webp" alt="" />
-            </div><div className="one">
-                <img src="./images1/nn1.jpeg" alt="" />
-            </div><div className="one">
-                <img src="./images1/good.jpeg" alt="" />
+                <img src="./images2/gallery6.jpeg" alt="" />
+            </div>
+            <div className="one">
+                <img src="./images2/gallery13.jpeg" alt="" />
+            </div>
+            <div className="one">
+                <img src="./images2/gallery8.jpeg" alt="" />
             </div>
         </div>
         <div className="first">
             <div className="one">
-                <img src="./images1/c2.webp" alt="" />
+                <img src="./images2/gallery9.jpeg" alt="" />
             </div>
             <div className="one">
-                <img src="./images1/nn.jpeg" alt="" />
-            </div><div className="one">
-                <img src="./images1/g7.webp" alt="" />
-            </div><div className="one">
-                <img src="./images1/army.webp" alt="" />
+                <img src="./images2/gallery10.jpeg" alt="" />
+            </div>
+            <div className="one">
+                <img src="./images2/gallery11.jpeg" alt="" />
+            </div>
+            <div className="one">
+                <img src="./images2/gallery12.jpeg" alt="" />
             </div>
         </div>
     </div>

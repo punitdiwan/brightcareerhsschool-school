@@ -16,16 +16,16 @@ const OurSchool = () => {
           {/* <h4 className="kalur text-center" style={{color:"black", fontWeight:"bold"}}>Our School</h4> */}
             <b>
               <p>
-                <em> FELIX PUBLIC HR. SEC SCHOOL.</em>
+                <em> Bright Career H.S. SCHOOL.</em>
               </p>
             </b>
             <b>
               <p>
                 <em>
-                Felix Public HR. Sec School  was founded in 1998
+                Bright Career H.S. School  was founded in 1986
                   as School is one of the oldest schools for both girls and boys
-                  managed by  Felix Public Group. Felix Public School Group is run by Mr. Abdul Sattar khan. Our institution is recogniged by the Madhya
-                  Pradesh Board of education.We, Felix Public, understand
+                  managed by  Bright Career School Group. Bright Career School Group is run by Mr. Kamal Kishore Gupta. Our institution is recogniged by the Madhya
+                  Pradesh Board of education.We, Bright Career, understand
                   that each child is a distinct individual who needs to be
                   nurtured in order to grow into a mature and responsible
                   citizen. Our academic infrastructure along with a wide range
@@ -33,7 +33,7 @@ const OurSchool = () => {
                   personality development. We have a strong team of motivated
                   teachers who are always ready to accept challenges of
                   developing the potential of each and every student. Keeping in
-                  view the ideas of democracy and our ancient culture, Felix Public School
+                  view the ideas of democracy and our ancient culture, Bright Career H.S. School
                   strives to provide a system of education most suited to the
                   needs of our society today. Stress on innovative methods of
                   teaching , opportunities for shouldering responsibilities
@@ -54,7 +54,7 @@ const OurSchool = () => {
             </ul> */}
             <p>
               We encourage all community members to discover the possibilities
-              at the  Felix Public HR. Sec School!
+              at the Bright Career H.S. School!
             </p>
           </div>
 

@@ -9,9 +9,6 @@ import { NavLink } from "react-router-dom";
 const BannerSection = () => {
   return (
     <>
-
-
-    
       <div className="container-fluid p-0">
         <div
           id="carouselExampleIndicators"
@@ -25,16 +22,16 @@ const BannerSection = () => {
               className="active"
             ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            {/* <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> */}
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            {/* <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> */}
+            {/* <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> */}
           </ol>
           
           <div className="carousel-inner" role="listbox">
             <div className="carousel-item active">
               <img
                 className="d-block slideimage"
-                src="./images1/slide1.png"
+                src="./images2/Banner_1.png"
                 alt="First slide"
               />
               {/* <div className="carousel-caption d-none d-md-block">
@@ -53,7 +50,7 @@ const BannerSection = () => {
             <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slide2.png"
+                src="./images2/Banner_2.png"
                 alt="Second slide"
               />
               {/* <div className="carousel-caption d-none d-md-block">
@@ -61,20 +58,20 @@ const BannerSection = () => {
                   <b>Dynamic Educators</b>
                 </h1>
                 <p>
-                  <b style={{ color: "#262624" }}>
+                  <b style={{ color: "#2marqu62624" }}>
                   Felix Public HR. Sec School to facilitate 21st century
                     teaching and learning for its teachers and students.
                   </b>
                 </p>
               </div> */}
             </div>
-            {/* <div className="carousel-item">
+            <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slider1.jpeg"
+                src="./images2/Banner_3.png"
                 alt="Third slide"
               />
-              <div className="carousel-caption d-none d-md-block">
+              {/* <div className="carousel-caption d-none d-md-block">
                 <h1>
                   <b>Hands-on learning</b>
                 </h1>
@@ -85,8 +82,9 @@ const BannerSection = () => {
                     educational institute.
                   </b>
                 </p>
-              </div>
-            </div> */}
+              </div> */}
+            </div> 
+      
           </div>
           <a
             className="carousel-control-prev"
@@ -96,7 +94,7 @@ const BannerSection = () => {
           >
             <span
               className="carousel-control-prev-icon jj"
-              aria-hidden="true"
+              aria-hidden="true"marqu
             ></span>
             <span className="sr-only"></span>
           </a>
@@ -106,15 +104,15 @@ const BannerSection = () => {
             role="button"
             data-slide="next"
           >
-            <span
+            <spanmarqu
               className="carousel-control-next-icon jj"
               aria-hidden="true"
-            ></span>
+            ></spanmarqu>
             <span className="sr-only"></span>
           </a>
         </div>
-      </div>
-
+      </div>     
+       
       {/* Latest New Section---------------------- */}
     
       <div className="container-fluid p-0">
@@ -123,7 +121,7 @@ const BannerSection = () => {
         <div className="container-fluid px-5 d-flex latest_card_box">
           <div className="lnewsleft p-3">
             <div className="card_img1">
-              <img src="./images1/g1.webp" alt="" />
+              <img src="./images2/good academic homepage.jpeg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Good Academic</h3>
@@ -131,10 +129,12 @@ const BannerSection = () => {
               A well equipped laboratories of physics, chemistry, biology, commerce, art and computers for practical learning .We teach students by smart classes for active participation and deep knowledge.
               </p>
             </div>
+            {/* <div class="updates"><div class="updatesleft"><div class="innerup">Updates</div></div><div class="upinner"><a href=""><p>1. Admission will open for 2023</p></a><a href=""><p>2. School Transport Arrangement</p></a></div></div> */}
           </div>
+
           <div className="lnewsmid p-3">
             <div className="card_img1">
-              <img src="./images1/slide3_11zon.webp" alt="" />
+              <img src="./images2/skilled staff-home.jpeg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Skilled Staff</h3>
@@ -147,12 +147,12 @@ const BannerSection = () => {
           </div>
           <div className="lnewsright p-3">
             <div className="card_img1">
-              <img src="./images1/g3.webp" alt="" />
+              <img src="./images2/sports facilities.jpeg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Sports</h3>
               <p>
-                The Felix Public HR. Sec School won the Many Award! Remember
+                The Bright Career H.S. School won the Many Award! Remember
                 how hard our school worked together on physical activity,
                 healthy eating, and mental. Specialy Focus on Education and
                 Sports.
@@ -178,10 +178,10 @@ const BannerSection = () => {
                 Our <span style={{ color: "yellow" }}>School</span>
               </h1>
               <p>
-              Felix Public HR. Sec School provides an Best learning
+              Bright Career H.S. School provides an Best learning
                 environment with a commitment of using modern day teaching
                 pedagogy to cultivate an advanced and comprehensive academic
-                program; fully compliant with the Felix Public HR. Sec School curriculum of
+                program; fully compliant with the Bright Career H.S. School curriculum of
                 studies. We are a nursery to 12th school with a wide array of resources
                 designed to foster student achievement that will prepare our
                 pupils to pursue higher education and be competitive in their
@@ -199,11 +199,11 @@ const BannerSection = () => {
             <div className="title">
               <h1 className="my-3 lnns">
                 <span style={{ color: "yellow" }}>
-                Felix Public HR. Sec School </span>
+                Bright Career H.S. School </span>
                  Admission
               </h1>
               <p className="mt-3">
-                The Felix Public HR. Sec School gives a fair and equal chance
+                Bright Career H.S. School gives a fair and equal chance
                 to all applicants who fulfill the admission requirements;
                 dependent upon space availability. To determine admission
                 eligibility for students transferring from another school,
@@ -229,15 +229,15 @@ const BannerSection = () => {
         <div className="container-fluid p-0  d-flex latest_card_box_hls">
           <div className="hlsleft">
             <div className="ccc1_img">
-              <img src="./images1/home1.webp" alt="" />
+              <img src="./images2/homepage1.jpeg" alt="" />
             </div>
             <div className="ccc2_img">
-              <img src="./images1/home2.webp" alt="" />
+              <img src="./images2/homepage5.jpeg" alt="" />
             </div>
           </div>
           <div className="hlsmid text-center p-5">
             <div className="card_imgl my-5">
-              <img src="./images1/hlogo1.png" alt="" />
+              <img src="./images2/logo.png" alt="" />
             </div>
             <div className="title1 my-5">
               <div className="hlstbutton1">
@@ -259,19 +259,19 @@ const BannerSection = () => {
             </div>
 
             <p>
-              At the Felix Public HR. Sec School, we believe in giving our
+              At the Bright Career H.S. School, we believe in giving our
               students a voice and instilling in them a passion to be involved
               with their school community. It is evident that students are at
               the forefront of understanding the needs of making their school
               into an environment that promotes a safe and healthy learning
-              environment. For this reason, Felix Public HR. Sec School is
+              environment. For this reason, Bright Career H.S. School is
               committed in providing a well balanced spiritual, academic and
               social well-being experience for it’s students. Students are
               encouraged to hone their talents in order to serve and participate
               in and beyond our community.
             </p>
             <div className="title1">
-              <div className="hlstbutton">
+              <div className="hlstbut<Update />ton">
                 <NavLink
                   className="btn btn-lg hls px-4 py-3"
                   to="/facilities"
@@ -284,10 +284,10 @@ const BannerSection = () => {
           </div>
           <div className="hlsright">
             <div className="ccc2_img">
-              <img src="./images1/home3.webp" alt="" />
+              <img src="./images2/gallery10.jpeg" alt="" />
             </div>
             <div className="ccc1_img">
-              <img src="./images1/yog.jpeg" alt="" />
+              <img src="./images2/homepage2.jpeg" alt="" />
             </div>
           </div>
         </div>

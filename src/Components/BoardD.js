@@ -6,17 +6,15 @@ const BoardD = () => {
   return (
     <>
       <div className="container-fluid p-0">
-     
-        
         <div className="container-fluid d-flex latest_card_box_ad pt-0">
           <div className="ourschoolboardeft px-3 text-left">
-          <h4 className="kalurr mt-3" style={{color:"black", fontWeight:"bold"}}>Board Of Director</h4>
+           <h4 className="kalurr mt-3" style={{color:"black", fontWeight:"bold"}}>Board Of Director</h4>
 
             <div className="princd">
               <div className="photos">
-                <img src="./images1/director.webp" alt="" />
+                <img src="./images2/director.jpeg" alt="" />
                 <div className="phname">
-                  <b>Director</b> - Mr. Abdul Sattar khan
+                  <b>Director</b> - Mr. Kamal Kishore Gupta
                 </div>
               </div>
 
@@ -26,21 +24,20 @@ const BoardD = () => {
                 </h5>
                 <p>
                   Dear Parent & Students, It gives me great pleasure to welcome
-                  you to Felix Public HR. Sec School  We follow a rigorous programme that is based
+                  you to Bright Career H.S. School  We follow a rigorous programme that is based
                   upon the best educational practices, highly progressive and
                   recognized world-wide; and one that creates conditions for
                   students to maximize their potential at an internationally
                   competitive level. highly qualified and well-trained teachers.
-                  I welcome you to be a part of Felix Public HR. Sec School  family!
+                  I welcome you to be a part of Bright Career H.S. School  family!
                 </p>
               </div>
-
-              
             </div>
+            
             <p>
               <b>
                 The Board of Directors is the main governing body of the
-                Felix Public HR. Sec School , the school administration, establishes
+                Bright Career H.S. School , the school administration, establishes
                 strategic direction, financial resources, reviews policies, and
                 responds to community needs. The school is committed to
                 inculcating in all our students; strong ethical valued of
@@ -49,7 +46,7 @@ const BoardD = () => {
                 achieve all this, We follow a rigorous programme that is based
                 upon the best educational practices,  Our state-of-the-art infrastructure, coupled
                 with highly qualified and well-trained teachers, ensures that
-                the students at Felix Public HR. Sec School should be able to gain an enriching
+                the students at Bright Career H.S. School should be able to gain an enriching
                 experience. Furthermore, it has been one of my quests in life to
                 make high quality education available; accessible through the
                 latest educational technology. The mission of the school is to
@@ -60,14 +57,14 @@ const BoardD = () => {
                 of Felix Public HR. Sec School is the high quality programmes and transparency in
                 its system. We are fortunate to have a school community which
                 includes talented teachers and supportive parents who work
-                together to make Felix Public HR. Sec School , an ideal place for our motivated
+                together to make Bright Career H.S. School , an ideal place for our motivated
                 students to learn and grow. We are always open to new ideas,
-                inquiries and feedback, from all.  I welcome you to be a part of Felix Public HR. Sec School 
+                inquiries and feedback, from all.  I welcome you to be a part of Bright Career H.S. School 
                 family!
               </b>
             </p>
             <p>
-              The Felix Public HR. Sec School  Board of Directors currently consists of the following
+              The Bright Career H.S. School  Board of Directors currently consists of the following
               members:
             </p>
             <table className="table table-bordered">
@@ -79,12 +76,12 @@ const BoardD = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td> Mr. Abdul Sattar khan</td>
+                  <td> Mr. Kamal Kishore Gupta</td>
                   <td>Director</td>
                 </tr>
                 <tr>
-                  <td> Mrs. Rubeena Farooq</td>
-                  <td>Principal</td>
+                  <td> Mrs. Nidhi Gupta</td>
+                  <td> Principal</td>
                 </tr>
 
                 {/* <tr>
@@ -102,7 +99,6 @@ const BoardD = () => {
               </tbody>
             </table>
           </div>
-
           <div className="ourschoolright p-4">
             <NobleSidebar />
           </div>

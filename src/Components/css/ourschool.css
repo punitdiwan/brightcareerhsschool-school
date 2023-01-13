@@ -24,9 +24,11 @@
 }
 
 .ourschoolright {
+  margin-top: 0;
   width: 40%;
   position: relative;
   color: rgb(14, 13, 13);
+  /* border: 2px solid red; */
   /* background-color: red; */
 }
 .bbb {
@@ -53,6 +55,7 @@
   color: black !important;
   text-align: left;
 }
+
 @media screen and (max-width: 768px) {
   .latest_card_box_ad {
     width: 100%;
@@ -95,6 +98,7 @@
 }
 
 .rightbad {
+  /* margin-top: -325px; */
   min-height: 100vh;
 }
 .searchbox {
