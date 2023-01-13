@@ -54,7 +54,7 @@ const BoardD = () => {
                 excellence, We will be the foundation for a new generation of
                 leaders and innovators, who will continue to pave the way for a
                 better and brighter future for our world. The greatest strength
-                of Felix Public HR. Sec School is the high quality programmes and transparency in
+                of Bright Career HR. Sec School is the high quality programmes and transparency in
                 its system. We are fortunate to have a school community which
                 includes talented teachers and supportive parents who work
                 together to make Bright Career H.S. School , an ideal place for our motivated

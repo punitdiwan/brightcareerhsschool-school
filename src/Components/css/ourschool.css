@@ -24,12 +24,9 @@
 }
 
 .ourschoolright {
-  margin-top: 0;
   width: 40%;
   position: relative;
   color: rgb(14, 13, 13);
-  /* border: 2px solid red; */
-  /* background-color: red; */
 }
 .bbb {
   color: black;
@@ -98,7 +95,6 @@
 }
 
 .rightbad {
-  /* margin-top: -325px; */
   min-height: 100vh;
 }
 .searchbox {
