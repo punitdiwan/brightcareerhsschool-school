@@ -12,23 +12,24 @@
 
 .princd {
   width: 100%;
-  height: 220px;
+  height: 250px;
   margin-top: 20px;
   margin-bottom: 20px;
   min-height: auto;
   display: flex;
-  flex-direction: row;
-  /* flex-direction: row; */
   padding: 30px 10px;
-  /* background-color: #dbe1e7; */
+  background-color: #dbe1e7;
 }
 
 .kalur {
   text-align: center;
 }
 .princd .photos {
-  height: 80%; 
-  width: 100%; 
+  height: 85%;
+  width: 22%;
+  margin: 0px 20px;
+  /* height: 80%; 
+  width: 100%;  */
  /* margin: 0px 20px; */
 }
 
@@ -42,7 +43,7 @@
   border: 1px solid rgb(196, 193, 193);
 }
 .princd .photos img {
-  height: 80%;
+  height: 100%;
   width: 100%;
   /* padding-right: 20px; */
 }
@@ -50,7 +51,7 @@
 .phname {
   font-size: 13px;
   height: 20%;
-  width: 100%;
+  /* width: 100%; */
   background-color: rgb(163, 177, 177);
   color: rgb(2, 2, 2);
   padding: 5px;
@@ -151,8 +152,8 @@
 
 } */
   .princd {
-    height: 62vh;
-    width: auto;
+    height: 400px;
+    width: 100%;
   }
 
   .princd .photos {
@@ -180,15 +181,13 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 300px;
+    height: 450px;
     width: 100%;
-    display: flex;
-    flex-direction: row;
   }
 
   .princd .photos {
-    height: 220px;
-    width: 220px;
+    height: 150px;
+    width: 190px;
     margin: 0px 20px;
   }
 

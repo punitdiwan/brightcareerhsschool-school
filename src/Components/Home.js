@@ -121,7 +121,7 @@ const BannerSection = () => {
         <div className="container-fluid px-5 d-flex latest_card_box">
           <div className="lnewsleft p-3">
             <div className="card_img1">
-              <img src="./images2/good academic homepage.jpeg" alt="" />
+              <img src="./images2/good academic homepage(2).jpeg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Good Academic</h3>
@@ -134,7 +134,7 @@ const BannerSection = () => {
 
           <div className="lnewsmid p-3">
             <div className="card_img1">
-              <img src="./images2/skilled staff-home.jpeg" alt="" />
+              <img src="./images2/skilled staff.jpeg" alt="" />
             </div>
             <div className="title">
               <h3 className="my-3 ak">Skilled Staff</h3>
@@ -232,7 +232,7 @@ const BannerSection = () => {
               <img src="./images2/homepage1.jpeg" alt="" />
             </div>
             <div className="ccc2_img">
-              <img src="./images2/homepage5.jpeg" alt="" />
+              <img src="./images2/homepage7.jpeg" alt="" />
             </div>
           </div>
           <div className="hlsmid text-center p-5">

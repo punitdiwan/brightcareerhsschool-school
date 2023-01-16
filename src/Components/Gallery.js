@@ -11,10 +11,10 @@ const Gallery = () => {
             <img src="./images2/gallery1.jpeg" alt="" />
         </div>
         <div className="one">
-            <img src="./images2/gallery2.jpeg" alt="" />
+            <img src="./images2/gallery16.jpeg" alt="" />
         </div>
         <div className="one">
-            <img src="./images2/gallery3.jpeg" alt="" />
+            <img src="./images2/gallery14.jpeg" alt="" />
         </div>
         <div className="one">
             <img src="./images2/gallery4.jpeg" alt="" />
@@ -29,7 +29,7 @@ const Gallery = () => {
                 <img src="./images2/gallery6.jpeg" alt="" />
             </div>
             <div className="one">
-                <img src="./images2/gallery13.jpeg" alt="" />
+                <img src="./images2/gallery17.jpeg" alt="" />
             </div>
             <div className="one">
                 <img src="./images2/gallery8.jpeg" alt="" />
@@ -43,10 +43,10 @@ const Gallery = () => {
                 <img src="./images2/gallery10.jpeg" alt="" />
             </div>
             <div className="one">
-                <img src="./images2/gallery11.jpeg" alt="" />
+                <img src="./images2/gallery15.jpeg" alt="" />
             </div>
             <div className="one">
-                <img src="./images2/gallery12.jpeg" alt="" />
+                <img src="./images2/gallry18.jpeg" alt="" />
             </div>
         </div>
     </div>

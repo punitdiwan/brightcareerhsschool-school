@@ -28,7 +28,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images2/skilled staff facilities.jpeg  " alt="" />
+                <img src="./images2/skilled staff.jpeg  " alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Skilled Staff</div>
@@ -57,7 +57,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images2/school infra.jpeg  " alt="" />
+                <img src="./images2/bulding.jpg  " alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Nice Infrastructure</div>
@@ -84,7 +84,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images2/good academics facilities.jpeg" alt="" />
+                <img src="./images2/good acedemic facilities(1).jpeg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Good Academic</div>
@@ -110,7 +110,7 @@ const Facilities = () => {
 
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./images2/yoga.jpeg" alt="" /> 
+                <img src="./images2/yoga1.jpeg" alt="" /> 
               </div>
               <div className="facontent">
                 <div className="factitle">Fitness & Yoga Lab</div>
