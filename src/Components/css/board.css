@@ -48,11 +48,9 @@
 .phname {
   font-size: 13px;
   height: auto;
-  /* width: 100%; */
   background-color: rgb(163, 177, 177);
   color: rgb(2, 2, 2);
   padding: 5px;
-  /* margin-right:20px; */
   display: flex;
 }
 .latest_card_box_ad {
