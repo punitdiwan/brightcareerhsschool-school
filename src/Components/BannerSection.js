@@ -20,8 +20,8 @@ const BannerSection = () => {
               className="active"
             ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            {/* <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    {/* <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> */}
           </ol>
           <div className="carousel-inner" role="listbox">
@@ -47,17 +47,19 @@ const BannerSection = () => {
                   <p><b>Since its inception, HIS has consistently grown year after year</b></p> */}
               </div>
             </div>
-            {/* <div className="carousel-item">
+
+            <div className="carousel-item">
               <img
                 className="d-block slideimage"
-                src="./images1/slider1.jpeg"
+                src="./images2/Banner_3.png"
                 alt="Third slide"
               />
               <div className="carousel-caption d-none d-md-block">
-                <h1><b>Hands-on learning</b></h1>
-                 <p><b>Since its inception, HIS has consistently grown year after year and has gained a reputation of becoming a leading Muslim educational institute.</b></p>
+                {/* <h1 style={{color:"#262624"}}><b>Dynamic Educators</b></h1>
+                  <p><b>Since its inception, HIS has consistently grown year after year</b></p> */}
               </div>
-            </div> */}
+            </div>
+           
           </div>
           <a
             className="carousel-control-prev"
