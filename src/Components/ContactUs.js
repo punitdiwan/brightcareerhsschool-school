@@ -76,7 +76,7 @@ const ContactUs = () => {
             </form>
              */}
           
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14667.738082033095!2d77.0898053!3d23.2090568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf5d9fdf1ca7658b9!2sBright%20Career%20School!5e0!3m2!1sen!2sin!4v1673418840172!5m2!1sen!2sin" width="600" height="450" style={{border:0}} allowFullscreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3666.87732860154!2d77.0944082753195!3d23.211140779042008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDEyJzQwLjEiTiA3N8KwMDUnNDkuMSJF!5e0!3m2!1sen!2sin!4v1706363239972!5m2!1sen!2sin" width="600" height="450" style={{border:0}} allowFullscreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
           </div>
 
           <div className="contactright text-left">
