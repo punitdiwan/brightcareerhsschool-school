@@ -18,7 +18,7 @@ import ScrollToTop from './Components/ScrollToTop';
 import ReactGA from "react-ga4";
 
 
-ReactGA.initialize("G-3K9ZY0ZH4V");
+ReactGA.initialize("G-11RMHW0H9S");
 
 function App() {
   return (
